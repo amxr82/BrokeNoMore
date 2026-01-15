@@ -7,7 +7,7 @@ Erstellt im Rahmen eines Hochschulprojekts.
 ---
 
 ## 🚀 Live-Demo
-👉 [Jetzt ansehen auf Netlify](https://fanciful-brioche-a6382e.netlify.app/)
+👉 [Jetzt ansehen auf Netlify]
 
 ---
 
